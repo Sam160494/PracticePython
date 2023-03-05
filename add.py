@@ -1,4 +1,6 @@
+#!/usr/bin/python
+
 x = 5
-y = 3
+y = 9
 
 print(x + y)
